@@ -104,4 +104,4 @@ MIT License – free to use, modify, and share.
 
 ## 🤝 Acknowledgements
 
-Built with PyTorch and inspired by OpenAI Gym’s Blackjack environment.
+Built with PyTorch.
